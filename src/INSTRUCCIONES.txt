@@ -1,0 +1,10 @@
+-----------------------------------
+INSTALL:
+npm i axios
+
+npm i zod
+or
+npm i valibot
+-----------------------------------
+
+VITE_API_KEY=765b57d5ee26c3ddf91ae5fd8b329bc3

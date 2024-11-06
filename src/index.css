@@ -1,0 +1,26 @@
+:root {
+  --white: #fff;
+  --primary: #f59e0b;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  /*  <uniquifier>: Use a unique and descriptive class name */
+  /* <weight>: Use a value from 100 to 900 */
+
+  font-family: "Outfit", serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+  /* <clase--------------- */
+
+  background-image: url("/bg_clima.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: var(--white);
+  font-size: 2rem;
+}
